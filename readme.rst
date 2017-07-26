@@ -2,7 +2,7 @@
 PHP E-Commerce Site
 ###################
 
-For education purposes only
+For educational purposes only
 
 *******************
 Release Information
