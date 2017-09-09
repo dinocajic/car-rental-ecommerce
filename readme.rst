@@ -4,6 +4,4 @@ PHP E-Commerce Site
 
 For educational purposes only
 
-*******************
-Release Information
-*******************
+The site was created using the CodeIgniter framework in PHP.
